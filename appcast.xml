@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Faceroom</title>
+    <link>https://github.com/eliaspfeffer/faceroom-releases</link>
+    <description>Faceroom update feed</description>
+    <language>en</language>
+    <item>
+      <title>Version 1.1.0</title>
+      <sparkle:version>10100</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <pubDate>Mon, 21 Apr 2026 06:10:15 +0000</pubDate>
+      <enclosure
+        url="https://github.com/eliaspfeffer/faceroom-releases/releases/download/v1.1.0/Faceroom.dmg"
+        sparkle:edSignature="PskzmVt5e2HIIRWVGHINX8VA3xrl3OlN+sK5pHFHV+Sdl8nYBUX+PY8Qo3s5wuzmiaeATnb6uUqvETWzurx0Ag=="
+        length="21619539"
+        type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
