@@ -9,8 +9,8 @@
       <title>Version 1.1.0</title>
       <sparkle:version>10100</sparkle:version>
       <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
-      <pubDate>Fr., 24 Apr. 2026 00:21:35 +0000</pubDate>
-      <enclosure url="https://github.com/eliaspfeffer/faceroom-releases/releases/download/v1.1.0/Faceroom.dmg" sparkle:edSignature="LhtvgRZxq9RWtLiXJpbWV2ClgMEUEuy54+89qEc6B7LVwOxxnSDwuKKHGxHOtGQQ60BKOWsX5RGa/UoOI9lhDw==" length="22487574" type="application/octet-stream" />
+      <pubDate>Fr., 24 Apr. 2026 00:50:30 +0000</pubDate>
+      <enclosure url="https://github.com/eliaspfeffer/faceroom-releases/releases/download/v1.1.0/Faceroom.dmg" sparkle:edSignature="qXDpLdstBofduMXu6xjZnvGgSxtoXKvH0gCUn8tOUG1Sb0auWeEotYe2Erh+Fb0HsCZMqF4thpShVF3y7gSVBA==" length="25555546" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
