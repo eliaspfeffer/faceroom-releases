@@ -6,6 +6,13 @@
     <description>Faceroom update feed</description>
     <language>en</language>
     <item>
+      <title>Version 1.2.1</title>
+      <sparkle:version>10201</sparkle:version>
+      <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+      <pubDate>Mon, 04 May 2026 01:05:49 +0000</pubDate>
+      <enclosure url="https://github.com/eliaspfeffer/faceroom-releases/releases/download/v1.2.1/Faceroom.dmg" sparkle:edSignature="3IM3dDbuePZpE6IUqgjNFnZxTCa+xTZF0ck26TEKG/wO/hD/O92TiaBbHwx9gfCHL0+GUUk4FRNoN24TLhXABQ==" length="22697288" type="application/octet-stream" />
+    </item>
+    <item>
       <title>Version 1.2.0</title>
       <sparkle:version>10200</sparkle:version>
       <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
